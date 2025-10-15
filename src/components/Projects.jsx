@@ -20,25 +20,30 @@ const Projects = () => {
           <h1 className='text-3xl font-semibold'>Art Commission</h1>
           <h3 className='text-xl text-gray-700'>Done in 2022</h3>
           <p className='text-sm text-gray-600 '>
-            An art commission I did back in 2022. I drew various characters from Touhou Project featuring Yuuma Toutetsu and Yuyuko Saigyouji and more background characters.
+            A big art commission I did back in 2022. I drew various characters from Touhou Project featuring Yuuma Toutetsu and Yuyuko Saigyouji and more background characters.
             I used digital art software to draw, especifically I used Sai2. [placeholder image]
+            This one of my favorite art pieces I did.
           </p>
         </div>
 
         <div className="text-left space-y-2 border-2 hover:scale-105 transition0all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50 ">
-          <h1 className='text-3xl font-semibold'>Projects</h1>
-          <h3 className='text-xl text-gray-700'>Tech Stack</h3>
+          <h1 className='text-3xl font-semibold'>"My Life" and "Java Activity"</h1>
+          <h3 className='text-xl text-gray-700'>Done in 2019 and 2020</h3>
           <p className='text-sm text-gray-600 '>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Both projects are crude but functional imitation of text-based games like that of visual novels. My Life is a text-based game where the player makes choices that affect the outcome of the story.
+            It was a collaborative project where me and Ceejay Santos made the story and code to determine the outcomes. Even adding a little easter egg. 
+            The Java Activity is a simple text-based adventure game where the player navigates through different scenarios based on their choices. It only reaches 3 endings that are the end of the tutorial stage.
           </p>
         </div>
 
       
         
       </div>
+      <br />
+      <h1 className='text-3xl font-semibold text-teal-600'>What have I learned from these projects?</h1>
+      <p className='text-xl text-gray-600 text-center'>That they do not have to be particularly especially superb, but that I've learned something from them
+        and the sentimental values they have to me. With these I can do future projects better than these and love doing them.
+      </p>
 
     </div>
   )
