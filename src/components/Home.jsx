@@ -10,11 +10,10 @@ const Home = () => {
         <div className='space-y-1 sm:space-y-3'>
           <h1 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-4xl font-semibold text-transparent md:text-5xl lg:text-6xl'>Aaron Matthew Tulalian</h1>
           <h3 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-xl font-semibold text-transparent md:text-2xl lg:text-3xl'>Student</h3>
-          <p className='max-w-[500px] text-sm text-gray-800'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          <p className='max-w-[800px] text-md text-gray-800'>
+            Hello, my name is Aaron Matthew Tulalian, and I am a student at the La Verdad Christian College, pursuing a degree in Bachelor of Science in Information System.
+            My hobbies are reading books, listening to audiobooks, podcasts, and music(especially alt rock ), playing videogames and tcg's like magic the gathering and pokemon, and I also like drawing.
+            I am passionate about learning about various things that require higher thinking, and I am always eager to take on new challenges and opportunities that come my way.
           </p>
         </div>
 
