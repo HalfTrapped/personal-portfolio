@@ -28,7 +28,7 @@ const HeaderLeft = () => {
             <BiBriefcase className='text-2xl' />
             <span className='text-xs'>HOME</span>
           </a>
-          <a href="#projects" className='flex flex-col items-center justify-center'>
+          <a href="#project" className='flex flex-col items-center justify-center'>
             <BiCode className='text-2xl' />
             <span className='text-xs'>HOME</span>
           </a>
