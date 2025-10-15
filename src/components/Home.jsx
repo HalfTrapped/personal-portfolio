@@ -4,7 +4,7 @@ import { BiLogoFacebook, BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
 
 const Home = () => {
   return (
-    <div id='home' className='flex min-h-screen w-full items-center justify-center'>
+    <div id='Home' className='flex min-h-screen w-full items-center justify-center'>
       <div className='flex flex-col items-center justify-center gap-8 p-5 text-center'>
         <img src={image} alt="user profile" className='w-[250px] sm:w-[300px] rounded-full'/>
         <div className='space-y-1 sm:space-y-3'>

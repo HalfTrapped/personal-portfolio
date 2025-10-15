@@ -2,8 +2,8 @@ import './App.css'
 import HeaderLeft from './components/HeaderLeft'
 import Home from './components/Home'
 import Experience from './components/Experience'
-;import Contact from './components/Contact' 
-import Projects from './components/Project'
+import Contact from './components/Contact' 
+import Projects from './components/Projects'
 
 function App() {
 
