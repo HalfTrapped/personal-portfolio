@@ -1,6 +1,6 @@
 import React from 'react'
 import image from '/src/oguricontext.jpg'
-import { BiLogoGithub } from 'react-icons/bi'
+import { BiLogoFacebook, BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
 
 const Home = () => {
   return (
@@ -15,7 +15,9 @@ const Home = () => {
         </div>
 
         <div className="flex gap-3">
-          <BiLogoGithub className='h-10 w-10 cursor-pointer'/>
+          <BiLogoGithub className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
+          <BiLogoLinkedin className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
+          <BiLogoFacebook className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12' />
         </div>
       </div>
     </div>
